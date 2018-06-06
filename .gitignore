@@ -1,0 +1,16 @@
+/target/
+/bsa-ci/
+/iac-control/
+/.settings/
+/.idea/
+/build/
+/.apt_generated/
+/bin/
+.classpath
+.project
+.springBeans
+.DS_Store
+.factorypath
+*.iml
+*.log.*
+*.log*
